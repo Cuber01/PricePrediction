@@ -1,0 +1,27 @@
+Dane:
+
+Indeks - liczba porządkowa rekordu. W .csv nie ma tytułu.
+battery_power  - pojemność baterii (mAh)
+blue - czy posiada bluetootha
+clock_speed - taktowanie procesora (GHz)
+dual_sim - czy posiada dwa miejsca na kartę sim (0 - nie, 1 - tak)
+fc - ilość megapikseli kamery
+four_g - czy telefon obsługuje 4g
+int_memory - pamięć wewnętrzna (Gb)
+m_dep - głębokość telefonu (cm)
+mobile_wt - waga telefonu (g)
+n_cores - liczba rdzeni procesora
+pc - ilość megapikseli głównej kamery
+px_width - rozmiar zdjęć w pikselach
+px_height - wysokość zdjęć w pikselach
+ram - ilość ramu (Mb)
+sc_width - rozmiar ekranu w pikselach
+sc_height - wysokość ekranu w pikselach
+talk_time - czas rozmowy telefonicznej, po którym bateria się rozładuje.
+three_g - czy ma 3g (0 - nie, 1 - tak)
+touch_screen - czy ma ekran dotykowy (0 - nie, 1 - tak)
+wifi - wifi
+
+Etykiety:
+
+price_range - półka cenowa telefonu
